@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=500&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shravan+Goswami" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=500&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi%2C+I'm+Shravan+Goswami" alt="Typing SVG" /></a> </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanngoswamii&label=Profile%20views&color=0e75b6&style=flat" alt="shravanngoswamii" /> </p>
 
