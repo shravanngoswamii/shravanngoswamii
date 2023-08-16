@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Shravan+Goswami" alt="Typing SVG" /></a>  </h1>
+<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Shravan+Goswami" alt="Typing SVG" /></a>  </h1>
 <h3 align="center">Competitive Programmer, Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanngoswamii&label=Profile%20views&color=0e75b6&style=flat" alt="shravanngoswamii" /> </p>
