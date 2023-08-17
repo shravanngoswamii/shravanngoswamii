@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shravanngoswamii&show_icons=true" />
 </picture>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shravanngoswamii&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shravanngoswamii&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
