@@ -39,6 +39,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=shravanngoswamii&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://github.com/shravanngoswamii)
 
 
