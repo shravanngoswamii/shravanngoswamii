@@ -37,6 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shravanngoswamii&show_icons=true" />
 </picture>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=shravanngoswamii&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://github.com/shravanngoswamii)
 
 
