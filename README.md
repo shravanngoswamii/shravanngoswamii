@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://shravangoswami.com/projects)
 
-- 📫 Contact me [here](https://shravangoswami/contact) or mail at **shravanngoswamii@gmail.com**
+- 📫 Contact me [here](https://shravangoswami.com/contact) or mail at **shravanngoswamii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
