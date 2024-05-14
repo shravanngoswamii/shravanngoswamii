@@ -2,23 +2,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanngoswamii&label=Profile%20views&color=0e75b6&style=flat" alt="shravanngoswamii" /> </p>
 
-- 🔭 I’m currently working on [My Website](https://shravangoswami.com)
+- [My Website](https://shravangoswami.com)
 
-- 🌱 I’m currently learning **Julia** and Exploring **Machine Learning**
-
-- 👨‍💻 All of my projects are available at [Projects](https://shravangoswami.com/projects)
-
-- 📫 Contact me [here](https://shravangoswami.com/contact) or mail at **shravanngoswamii@gmail.com**
+- Contact me at **shravanngoswamii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shravangoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shravangoswamii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shravangoswami" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shravangoswami" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/shravangoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shravangoswamii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shravangoswami" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shravangoswami" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/shravan_goswami_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shravan_goswami_" height="30" width="40" /></a> -->
-<a href="https://www.codechef.com/users/shravangoswami" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shravanngoswamii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shravanngoswamii" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/shravangoswami" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shravanngoswamii" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shravanngoswamii" height="30" width="40" /></a> -->
 <a href="https://codeforces.com/profile/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shravanngoswamii" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shravanngoswamii" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shravanngoswamii" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shravanngoswamii" height="30" width="40" /></a>
 </p>
 
