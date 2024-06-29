@@ -18,7 +18,7 @@
 <!-- <a href="https://auth.geeksforgeeks.org/user/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shravanngoswamii" height="30" width="40" />GeekforGeeks</a> -->
 </p>
 
-![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanngoswamii&show_icons=true&theme=transparent&hide_border=true&card_width=430) [![GitHub Streak](https://streak-stats.demolab.com?user=shravanngoswamii&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=430)](https://github.com/shravanngoswamii)
+![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanngoswamii&show_icons=true&theme=transparent&hide_border=true&card_width=400) [![GitHub Streak](https://streak-stats.demolab.com?user=shravanngoswamii&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://github.com/shravanngoswamii)
 
 [![Shravan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanngoswamii&theme=github-compact&hide_border=true	)](https://github.com/shravanngoswamii)
 
