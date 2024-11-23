@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanngoswamii&label=Profile%20views&color=0e75b6&style=flat" alt="shravanngoswamii" /> </p>
 
-- [Visit My Website](https://shravangoswami.com) or [Blog](https://blog.shravangoswami.com)
+- [Visit My Website](https://shravangoswami.com)
 
 - Contact me at **shravanngoswamii@gmail.com**
 
