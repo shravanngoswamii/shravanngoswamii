@@ -5,7 +5,7 @@
 - Contact me at **shravanngoswamii@gmail.com**
 
 
-[![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=shravangoswami)](https://github.com/shravanngoswamii)
+[![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=shravangoswami)](https://codeforces.com/profile/shravangoswami)
 
 [![Shravan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanngoswamii&theme=github-compact&hide_border=true	)](https://github.com/shravanngoswamii)
 
