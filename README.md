@@ -2,12 +2,12 @@
 
 <div align="center">
   <a href="https://shravangoswami.com">
-    <img src="https://img.shields.io/badge/Website-shrvangoswami.com-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Website-shrvangoswami.com-blue?style=flat" />
   </a>
   <br>
 
   <a href="mailto:shravanngoswamii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shravanngoswamii%40gmail.com-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-shravanngoswamii%40gmail.com-red?style=flat" />
   </a>
   <br>
 
