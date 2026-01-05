@@ -4,9 +4,8 @@
 
 - Contact me at **shravanngoswamii@gmail.com**
 
-<p align="left">
-<a href="https://codeforces.com/profile/shravanngoswamii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shravanngoswamii" height="30" width="40" />Codeforces Profile</a>
-</p>
+
+[![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=shravangoswami)](https://github.com/shravanngoswamii)
 
 [![Shravan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanngoswamii&theme=github-compact&hide_border=true	)](https://github.com/shravanngoswamii)
 
